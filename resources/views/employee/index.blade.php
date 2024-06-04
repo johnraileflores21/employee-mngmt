@@ -15,7 +15,7 @@
 
     <!-- Main content -->
     <div class="col-md-8 m-auto">
-    <div class="card card-primary">
+    <div class="card card-danger">
         <div class="card-header d-flex justify-content-between align-items-center">
             <h3 class="card-title">Add New Employee</h3>
             <a href="{{ url('employee/show') }}" class="btn btn-warning ml-auto">Show Table</a>
